@@ -39,8 +39,6 @@ O desafio **House Prices: Advanced Regression Techniques** do Kaggle é um clás
 * **Modelos avançados**:
 
   * **Árvores de Decisão**: Utilizar para capturar relações não lineares.
-  * **Random Forest**: Aplicar para melhorar a precisão e reduzir o overfitting.
-  * **Gradient Boosting**: Técnicas como XGBoost ou LightGBM podem ser exploradas para obter melhores resultados.
 * **Validação cruzada**: Utilizar validação cruzada para avaliar a performance dos modelos e evitar overfitting.
 
 ### 4. Avaliação de Modelos
