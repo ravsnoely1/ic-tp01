@@ -141,9 +141,9 @@ Usando **Optuna** no RandomForest:
   ```
 - **Accuracy após tuning:** **0.81**
 
-*(Inserir gráfico de importância de parâmetros do Optuna)*
-
----
+<p align="center">
+  <img src="../img/Optuna.jpeg" width="70%">
+</p>
 
 ## 7. **Comparação Final**
 
