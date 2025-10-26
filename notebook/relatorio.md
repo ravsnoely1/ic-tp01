@@ -48,11 +48,11 @@ O dataset contém informações como:
 - **Gastos (RoomService, FoodCourt, ShoppingMall, Spa e VRDeck):** altamente assimétricos, com muitos passageiros gastando pouco ou nada.
 
 ![Histograma - Age](../img/hist_spa.png)
-![Histograma - RoomService](ic-tp01/blob/main/img/hist_roomservice.png)
-![Histograma - FoodCourt](ic-tp01/blob/main/img/hist_foodcourt.png)
-![Histograma - ShoppingMall](ic-tp01/blob/main/img/hist_shoppingmall.png)
-![Histograma - Spa](ic-tp01/blob/main/img/hist_spa.png)
-![Histograma - VRDeck](ic-tp01/blob/main/img/hist_vrdeck.png)
+![Histograma - RoomService](../img/hist_roomservice.png)
+![Histograma - FoodCourt](../img/hist_foodcourt.png)
+![Histograma - ShoppingMall](../img/hist_shoppingmall.png)
+![Histograma - Spa](../img/hist_spa.png)
+![Histograma - VRDeck](../img/hist_vrdeck.png)
 
 ### 3.2 Distribuição das variáveis categóricas
 - **HomePlanet:** maioria de passageiros vem de `Earth`.
