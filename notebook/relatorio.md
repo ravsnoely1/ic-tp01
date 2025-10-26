@@ -83,18 +83,24 @@ O dataset contém informações como:
 
 ## 5. **Modelos e Resultados**
 
-### 5.1 Baseline
+### 5.1 Modelos semelhantes
+Os autores ZHUCUI JING e XIAOLI YIN, em seu o artigo: “Neural Network-Based Prediction Model for Passenger Flow in a Large Passenger Station: An Exploratory Study” apresenta a aplicação de redes neurais para prevê a entrada e saída de passageiros de uma estação, com objetivo de fornecer a garantia de segurança da estação, alocação de recursos e distribuição de pessoal.
+Neste modelo como entrada da rede neural, eles utilizaram os principais fatores que afetam a mudança do fluxo de passageiros. Durante o processo de aprendizagem, era atualizado a taxa de tamanho de passos para estimar o número de pessoas que entram na estação durante um determinado intervalo de tempo. O resultado é avaliado com os dados históricos para derivar a previsão do fluxo de passageiros durante o próximo intervalo de tempo. (Veja em: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8985339 )
+
+No artigo “Prospects and challenges of Metaverse application in data-driven intelligent transportation systems”, de acordo com os autores Judith Nkechinyere Njoku, Cosmas Ifeanyi Nwakanma, Gabriel Chukwunonso Amaizu, Dong-Seong Kim, o Metaverso é um conceito usado para referir a um mundo virtual que existe paralelamente ao mundo físico. Por exemplo a aplicação de metaverso em jogos de realidades virtuais. Neste artigo, os autores realizam um estudo de caso que analisa os conceitos de recursos de Metaverso em sistemas de transportes inteligentes baseado em dados. (Veja em: https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/itr2.12252 )
+
+### 5.2 Baseline
 - **DummyClassifier (most_frequent)** → Accuracy: **0.50**  
   *(serve como referência mínima)*
 
-### 5.2 Modelos testados
+### 5.3 Modelos testados
 | Modelo         | Accuracy (CV) |
 |----------------|---------------|
 | RandomForest   | 0.78          |
 | XGBoost        | 0.79          |
 | KNN            | 0.74          |
 
-### 5.3 Meta-learning
+### 5.4 Meta-learning
 - **VotingClassifier (soft voting)** → Accuracy: **0.80**  
   *(ganho pequeno, mas consistente)*
 
