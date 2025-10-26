@@ -47,7 +47,7 @@ O dataset contém informações como:
 - **Idade:** maioria entre 20 e 40 anos.
 - **Gastos (RoomService, FoodCourt, ShoppingMall, Spa e VRDeck):** altamente assimétricos, com muitos passageiros gastando pouco ou nada.
 <p align="center">
-  <img src="../img/hist_spa.png" width="45%">
+  <img src="../img/hist_age.png" width="45%">
   <img src="../img/hist_roomservice.png" width="45%">
 </p>
 
