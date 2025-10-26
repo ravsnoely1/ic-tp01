@@ -58,6 +58,7 @@ O dataset contém informações como:
 - **HomePlanet:** maioria de passageiros vem de `Earth`.
 - **Destination:** destino mais comum é `TRAPPIST-1e`.
 - **CryoSleep:** cerca de 30% dos passageiros estavam em sono criogênico.
+- **VIP:** apenas uma pequena fração dos passageiros era VIP.
 
 *(Inserir aqui countplots gerados no notebook)*
 
