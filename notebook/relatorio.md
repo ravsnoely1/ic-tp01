@@ -81,7 +81,9 @@ O dataset contém informações como:
 - Gastos em serviços (`Spa`, `VRDeck`) têm correlação positiva moderada entre si.
 - Idade não apresenta correlação forte com o target.
 
-*(Inserir aqui heatmap gerado no notebook)*
+<p align="center">
+  <img src="../img/heatmap_corr.png" width="70%">
+</p>
 
 ### 3.4 Relação com o Target
 - Passageiros em **CryoSleep** têm maior probabilidade de serem transportados.
