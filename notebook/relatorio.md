@@ -60,7 +60,10 @@ O dataset contém informações como:
 - **CryoSleep:** cerca de 30% dos passageiros estavam em sono criogênico.
 - **VIP:** apenas uma pequena fração dos passageiros era VIP.
 
-*(Inserir aqui countplots gerados no notebook)*
+![Histograma - Homeplanet](../img/count_homeplanet.png)
+![Histograma - Cryosleep](../img/count_cryosleep.png)
+![Histograma - Destination](../img/count_destination.png)
+![Histograma - VIP](../img/count_vip.png)
 
 ### 3.3 Correlação
 - Gastos em serviços (`Spa`, `VRDeck`) têm correlação positiva moderada entre si.
