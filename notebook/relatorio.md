@@ -47,7 +47,12 @@ O dataset contém informações como:
 - **Idade:** maioria entre 20 e 40 anos.
 - **Gastos (RoomService, FoodCourt, ShoppingMall, Spa e VRDeck):** altamente assimétricos, com muitos passageiros gastando pouco ou nada.
 
-*(Inserir aqui histogramas gerados no notebook)*
+![Histograma - Age](hist_age.png)
+![Histograma - RoomService](hist_roomservice.png)
+![Histograma - FoodCourt](hist_foodcourt.png)
+![Histograma - ShoppingMall](hist_shoppingmall.png)
+![Histograma - Spa](hist_spa.png)
+![Histograma - VRDeck](hist_vrdeck.png)
 
 ### 3.2 Distribuição das variáveis categóricas
 - **HomePlanet:** maioria de passageiros vem de `Earth`.
