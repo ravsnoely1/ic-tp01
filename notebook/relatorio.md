@@ -45,7 +45,7 @@ O dataset contém informações como:
 
 ### 3.1 Distribuição das variáveis numéricas
 - **Idade:** maioria entre 20 e 40 anos.
-- **Gastos (RoomService, FoodCourt, etc.):** altamente assimétricos, com muitos passageiros gastando pouco ou nada.
+- **Gastos (RoomService, FoodCourt, ShoppingMall, Spa e VRDeck):** altamente assimétricos, com muitos passageiros gastando pouco ou nada.
 
 *(Inserir aqui histogramas gerados no notebook)*
 
