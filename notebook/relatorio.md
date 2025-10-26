@@ -59,11 +59,16 @@ O dataset contém informações como:
 - **Destination:** destino mais comum é `TRAPPIST-1e`.
 - **CryoSleep:** cerca de 30% dos passageiros estavam em sono criogênico.
 - **VIP:** apenas uma pequena fração dos passageiros era VIP.
+  
+<p align="center">
+  <img src="../img/count_homeplanet.png" width="45%">
+  <img src="../img/count_cryosleep.png" width="45%">
+</p>
 
-![Histograma - Homeplanet](../img/count_homeplanet.png)
-![Histograma - Cryosleep](../img/count_cryosleep.png)
-![Histograma - Destination](../img/count_destination.png)
-![Histograma - VIP](../img/count_vip.png)
+<p align="center">
+  <img src="../img/count_destination.png" width="45%">
+  <img src="../img/count_vip.png" width="45%">
+</p>
 
 ### 3.3 Correlação
 - Gastos em serviços (`Spa`, `VRDeck`) têm correlação positiva moderada entre si.
