@@ -88,9 +88,10 @@ O dataset contém informações como:
 - Passageiros em **CryoSleep** têm maior probabilidade de serem transportados.
 - Passageiros que gastaram mais em `VRDeck` tendem a não ser transportados.
 
-*(Inserir aqui boxplots gerados no notebook)*
-
----
+<p align="center">
+  <img src="../img/Bloxpot1.jpeg" width="45%">
+  <img src="../img/Bloxpot2.jpeg" width="45%">
+</p>
 
 ## 4. **Pré-processamento**
 
