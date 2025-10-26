@@ -7,9 +7,9 @@ Essa nave espacial, viajava com destino a três exoplanetas recém-habitáveis q
 
 - **Tipo de problema:** Classificação binária.
 - **Métrica oficial:** **Accuracy**  
-  \[
-  Accuracy = \frac{\text{Previsões corretas}}{\text{Total de previsões}}
-  \]
+  
+  $Accuracy = \frac{\text{Previsões corretas}}{\text{Total de previsões}}$
+ 
 - **Formato de entrega:** Arquivo `submission.csv` com colunas `PassengerId` e `Transported`.
 
 ---
