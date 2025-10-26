@@ -2,8 +2,8 @@
 
 ## 1. **Introdução**
 
-O **Spaceship Titanic** é uma competição fictícia hospedada no [Kaggle](https://www.kaggle.com/competitions/spaceship-titanic), inspirada no famoso dataset Titanic, mas ambientada em uma nave espacial.  
-O objetivo é prever se um passageiro foi **transportado para outra dimensão** (`Transported = True/False`) após um acidente, usando informações demográficas e de viagem.
+O **Spaceship Titanic** é uma competição fictícia hospedada no [Kaggle](https://www.kaggle.com/competitions/spaceship-titanic), inspirada no famoso dataset Titanic, mas ambientada em uma nave espacial. 
+Essa nave espacial, viajava com destino a três exoplanetas recém-habitáveis que orbitam estrelas próximas ao nosso sistema solar. Mas houve um acidente e que levou a metade dos 13.000 passageiros serem transportados para uma dimensão alternativa. Para ajudar a equipe de resgate a recuperar os passageiros perdidos, temos o objetivo de prever qual passageiro foi **transportado para outra dimensão** (`Transported = True/False`) após um acidente, usando informações demográficas e de viagem.
 
 - **Tipo de problema:** Classificação binária.
 - **Métrica oficial:** **Accuracy**  
