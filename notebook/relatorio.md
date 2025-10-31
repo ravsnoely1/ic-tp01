@@ -147,14 +147,14 @@ Usando **Optuna** no RandomForest:
 
 ## 7. **Comparação Final**
 
-| Modelo               | Accuracy (CV) | Melhor Parâmetro | Observações |
-|----------------------|---------------|------------------|-------------|
-| Baseline             | 0.50          | -                | Referência mínima |
-| RandomForest         | 0.78          | -                | Bom desempenho |
-| XGBoost              | 0.79          | -                | Estável |
-| KNN                  | 0.74          | -                | Sensível ao escalonamento |
-| VotingClassifier     | 0.80          | -                | Ensemble de 3 modelos |
-| RandomForest Tunado  | **0.81**      | Optuna params    | Melhor resultado |
+| Modelo               | Accuracy (CV) | Observações |
+|----------------------|---------------|-------------|
+| Baseline             | 0.50          | Referência mínima |
+| RandomForest         | 0.78          | Bom desempenho |
+| XGBoost              | 0.79          | Estável |
+| KNN                  | 0.74          | Sensível ao escalonamento |
+| VotingClassifier     | 0.80          | Ensemble de 3 modelos |
+| RandomForest Tunado  | **0.81**      | Melhor resultado |
 
 Conforme na imagem a seguir, no Kaggle, ao submetermos os dois modelos: RandomForestTunado e RandomForest, foi possível verificar que o desempenho foi muito semelhante.
 <p align="center">
