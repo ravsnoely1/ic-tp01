@@ -156,12 +156,16 @@ Usando **Optuna** no RandomForest:
 | VotingClassifier     | 0.80          | -                | Ensemble de 3 modelos |
 | RandomForest Tunado  | **0.81**      | Optuna params    | Melhor resultado |
 
----
+Conforme na imagem a seguir, no Kaggle, ao submetermos os dois modelos: RandomForestTunado e RandomForest, foi possível verificar que o desempenho foi muito semelhante.
+<p align="center">
+  <img src="../img/Kaggle.jpeg" width="70%">
+</p>
 
 ## 8. **Conclusão**
 
 - O **RandomForest Tunado** apresentou o melhor desempenho (Accuracy = 0.81).
 - O **VotingClassifier** também foi competitivo, mostrando que ensembles podem ajudar.
+- Ao submeter-mos na competição o modelo **RandomForest** e **RandomForest** Tunado, notamos que a potuação teve pouca diferença mas o tempo de execução foi maior para o RandomForest.
 - **Possíveis melhorias futuras:**
   - Engenharia de atributos (ex.: extrair número e lado da cabine).
   - Testar LightGBM e CatBoost.
